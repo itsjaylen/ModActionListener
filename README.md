@@ -1,0 +1,1 @@
+## 1. query twitch api or other api for the mods and vips
